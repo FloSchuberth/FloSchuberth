@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am researcher in the field of structural equation modeling. 
+
 <!--
 **FloSchuberth/FloSchuberth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
