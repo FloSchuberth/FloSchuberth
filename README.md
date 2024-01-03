@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am researcher in the field of structural equation modeling. 
+I am a researcher in the field of quantitative methods. Particularly, I am studying structural equation modeling (SEM) and how composites can be used.  
 
 <!--
 **FloSchuberth/FloSchuberth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
